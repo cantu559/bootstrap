@@ -1,0 +1,14 @@
+.navbar-default{
+  margin-bottom: 0px;
+}
+
+.carousel-inner{
+  height: 900px;
+}
+
+p{
+  height: 500px;
+  width: 100%;
+  padding-left: 400px;
+  padding-right: 400px;
+}
