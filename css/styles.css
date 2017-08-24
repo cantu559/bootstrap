@@ -1,14 +1,15 @@
-.navbar-default{
-  margin-bottom: 0px;
+
+
+.block1 {
+  height:100px;
+  background-color: #000;
+}
+.block2 {
+  height: 100px;
+  background-color: #000;
 }
 
-.carousel-inner{
-  height: 900px;
-}
-
-p{
-  height: 500px;
-  width: 100%;
-  padding-left: 400px;
-  padding-right: 400px;
+.block3{
+  height: 50px;
+  background-color: #000;
 }
